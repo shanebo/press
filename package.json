@@ -1,0 +1,13 @@
+{
+	"name": "press",
+	"version": "0.0.1",
+	"description": "Compress js and css into single compressed files.",
+	"keywords": [""],
+	"repository": "git://github.com/shanebo/press.git",
+	"author": "Shane Thacker <shane@steadymade.com>",
+	"main": "./lib/press",
+	"dependencies": {
+		"mime": "1.2.4"
+	},
+	"engine": ">= 0.4.1"
+}
