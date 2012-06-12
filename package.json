@@ -1,7 +1,7 @@
 {
 	"name": "press",
 	"version": "0.0.1",
-	"description": "Compress js and css into single compressed files.",
+	"description": "Compress multiple js and css files into single compressed files.",
 	"keywords": [""],
 	"repository": "git://github.com/shanebo/press.git",
 	"author": "Shane Thacker <shane@steadymade.com>",
