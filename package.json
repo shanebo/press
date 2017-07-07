@@ -1,6 +1,6 @@
 {
     "name": "press",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Compress multiple js and css files into single compressed files.",
     "keywords": [""],
     "repository": "git://github.com/shanebo/press.git",
